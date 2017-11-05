@@ -15,7 +15,7 @@ public class CompareCSV {
 	
 	public boolean compare(File first, File second) {
  
-        
+        // second commit!
         String original_path = first.getPath();
         String output_files = second.getPath();
         HashMap<String, Integer> map = new HashMap<>();
